@@ -1,1 +1,1 @@
-# 0x01-emacs
+Learning Emacs basics .
