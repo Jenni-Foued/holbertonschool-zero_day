@@ -1,1 +1,1 @@
-2nd reademe file for this project
+How to use Git and Github .
