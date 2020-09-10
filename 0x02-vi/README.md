@@ -1,1 +1,1 @@
-Learning vi
+Learning basics of vi commands .
