@@ -2,7 +2,7 @@
 **Emacs** is a text editor designed for POSIX operating systems and available on Linux, BSD, macOS, Windows, and more.
 This project contains key commands to use emacs.
 
-0. 0-opening: Containthe command to open a file from within Emacs.
+0. 0-opening: Contain the command to open a file from within Emacs.
 1. 1-saving: Contain the command to save a file.
 2. 2-cutting: Contain the command to cut an entire line.
 3. 3-pasting: Contain the command to paste.
