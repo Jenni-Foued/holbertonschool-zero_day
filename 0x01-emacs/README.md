@@ -5,7 +5,7 @@ This project contains key commands to use **emacs**.
 **File** | **Description**
 --- | --- 
 [0-opening](https://github.com/Jenni-Foued/holbertonschool-zero_day/tree/master/0x01-emacs/0-opening) | Contain the command to open a file from within Emacs. 
-
+--- | ---
 [1-saving](https://github.com/Jenni-Foued/holbertonschool-zero_day/tree/master/0x01-emacs/1-saving) | Contain the command to save a file.
 
 [2-cutting](https://github.com/Jenni-Foued/holbertonschool-zero_day/tree/master/0x01-emacs/2-cutting) | Contain the command to cut an entire line.
