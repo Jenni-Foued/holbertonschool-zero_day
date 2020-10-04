@@ -1,7 +1,5 @@
 # holbertonschool-zero_day
 
-## Description:
-
 I'm now a **Holberton** Student, this my first repository as a full-stack engineer.
 
 **Projects (Tools)** | **Desciptions**
