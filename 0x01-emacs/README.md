@@ -1,4 +1,4 @@
-# emacs
+# Emacs
 
 This project contains key commands to use **emacs**.
 
