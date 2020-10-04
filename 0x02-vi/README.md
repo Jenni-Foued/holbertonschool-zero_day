@@ -1,6 +1,6 @@
 # vi
 
-**vi** is a screen-oriented text editor originally created for the Unix operating system.
+This projects contains key commands to manipulate text in a file using **vi** text editor.
 
 # Tasks
 
