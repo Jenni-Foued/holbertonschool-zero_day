@@ -1,6 +1,6 @@
 # vi
 
-This projects contains key commands to manipulate text in a file using **vi** text editor.
+This projects contains key commands to manipulate text file using **vi**.
 
 # Tasks
 
