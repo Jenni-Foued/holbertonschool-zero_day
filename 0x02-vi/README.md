@@ -1,5 +1,7 @@
 # Vi
 
+## About
+
 This projects contains key commands to manipulate text file using **vi**.
 
 **Tasks** | **Description**
