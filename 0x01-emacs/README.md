@@ -3,8 +3,8 @@
 This project contains key commands to use **emacs**.
 
 **Tasks** | **Descriptions**
---- | --- 
-[Opening](https://github.com/Jenni-Foued/holbertonschool-zero_day/tree/master/0x01-emacs/0-opening) | Contain the command to open a file from within Emacs. 
+--- | ---
+[Opening](https://github.com/Jenni-Foued/holbertonschool-zero_day/tree/master/0x01-emacs/0-opening) | Contain the command to open a file from within Emacs.
 [Saving](https://github.com/Jenni-Foued/holbertonschool-zero_day/tree/master/0x01-emacs/1-saving) | Contain the command to save a file.
 [Cutting](https://github.com/Jenni-Foued/holbertonschool-zero_day/tree/master/0x01-emacs/2-cutting) | Contain the command to cut an entire line.
 [Pasting](https://github.com/Jenni-Foued/holbertonschool-zero_day/tree/master/0x01-emacs/3-pasting) | Contain the command to paste.
